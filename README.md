@@ -1,1 +1,17 @@
-# Trip_It-Group-Project-![Screenshot 2022-08-06 214921](https://user-images.githubusercontent.com/79275342/183257394-523899b5-01f9-4587-8b78-1ae7f28a5725.png)
+# Trip_It-Group-Project
+
+# About Project:
+
+This application works around a simple interface
+environment where a user can book their trip to their
+favorite destination. Check the trends for places to
+visit and mark them their favorites. It has a easy
+search and work space which can be effective to gather
+information as for the user.
+
+
+# Development Tools
+Languages: Dart
+@ Flutter sdk and plugins 
+• We used VS Code and Android Simulator as our editor.
+• Built with Firebase with Flutter
